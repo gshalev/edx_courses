@@ -1,0 +1,7 @@
+def combine_anagrams(words)
+  # YOUR CODE HERE
+  my_hash = { }
+  words.each do |w| {
+    print w
+  } 
+end
